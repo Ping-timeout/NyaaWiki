@@ -106,11 +106,9 @@ Need For Speed 服务器为喵窝的竞速游戏服务器。玩家可以在这�
 | `kedama-v0-0` | 毛玉線圈物語 初卷 | 毛玉線圈物語 | 1/? | 1.10.2 | | |
 | `kedama-v0-1` | 毛玉線圈物語 初卷 | 毛玉線圈物語 | 1/? | 1.7.2 | | |
 
-也可以查看 [静态地图](https://map.nyaacat.com/archive/)。
-
 另可参照：[[喵窝] 月芒物语设定集](https://www.zozyo.net/) - Minecraft 服务器「月芒物语」Wiki 存档。
 
-?> :rice_ball: 毛线 V1 至 V4 时期的古地图未收录。有热心玩家收藏古地图并作为“只读存档”公开，地址为 `play.hieda.cc` `play2.hieda.cc`。
+?> :rice_ball: 毛线 V1 至 V4 时期的古地图未收录。有热心玩家收藏古地图并作为“只读存档”公开，地址为 `play.hieda.cc` 。
 
 </details>
 
